@@ -636,7 +636,7 @@ main .slider_testimonials {
 }
 
 main .slider_testimonials::-webkit-slider-thumb {
-    -webkit-appearance: none;
+    
     background: #fd8f12;
     width: 19%;
     height: 7px;
